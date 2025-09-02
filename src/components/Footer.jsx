@@ -17,9 +17,6 @@ export default function Footer(){
             <p><Link to="/services">Services</Link></p>
           </div>
           <div>
-            <h4>Contact</h4>
-            <p><a href="mailto:pooyan.mohammadkarimi@gmail.com">pooyan.mohammadkarimi@gmail.com</a></p>
-            <p>Owner: Pouyan Mohammad Karimi</p>
             <p>Toronto,Ontario,Canada</p>
           </div>
         </div>

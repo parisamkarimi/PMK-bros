@@ -17,7 +17,6 @@ export default function Hero(){
         <div className="kpis" style={{marginTop:16}}>
           <div className="kpi"><strong>10+</strong><div className="muted">Years Experience</div></div>
           <div className="kpi"><strong>150+</strong><div className="muted">Projects Delivered</div></div>
-          <div className="kpi"><strong>4.9★</strong><div className="muted">Client Rating</div></div>
           <div className="kpi"><strong>100%</strong><div className="muted">Insured & Licensed</div></div>
         </div>
       </div>
